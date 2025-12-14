@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'LdRadioGroup',
+  name: 'SbRadioGroup',
   props: {
     modelValue: { default: null },
     options: { type: Object, required: true },

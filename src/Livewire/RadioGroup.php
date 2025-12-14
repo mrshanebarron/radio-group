@@ -31,6 +31,6 @@ class RadioGroup extends Component
 
     public function render()
     {
-        return view('ld-radio-group::livewire.radio-group');
+        return view('sb-radio-group::livewire.radio-group');
     }
 }
